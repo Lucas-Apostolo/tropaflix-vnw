@@ -1,0 +1,23 @@
+// Só pode codar no style.scss
+// Seletores(tag): Propriedades: Valores:  bases da estilização
+// tipos de seletores tag(seleciona tudo), Class(um grupo especifico), id(especifico)
+// * = seletor global
+* {
+ margin: 0%;
+ padding: 0%;
+ box-sizing: border-box;
+}
+header{ 
+ background-color: orangered; 
+}
+img{
+    width: 300px;
+}
+// class
+.Filme1{
+    background-color: orange;
+}
+// id
+#btn1{
+   background-color: teal;
+}
